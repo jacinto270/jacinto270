@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img">
+  <g font-family="'Segoe Script', 'Bradley Hand', 'Comic Sans MS', cursive">
+    <text x="28" y="48" fill="#5B9BD5" font-size="28">Objetivos actuales</text>
+    <g fill="#6B9BC3" font-size="18">
+      <text x="28" y="103">✦  Aprender cada día algo nuevo y convertir el conocimiento en soluciones que abran caminos.</text>
+      <text x="28" y="157">✦  Terminar proyectos digitales que transformen buenas ideas en herramientas útiles y reales.</text>
+      <text x="28" y="211">✦  Colaborar con personas y empresas que quieran crecer con propósito.</text>
+    </g>
+  </g>
+  <path d="M28 234 C230 243, 390 229, 570 237 S790 241, 872 232" fill="none" stroke="#7FE7D2" stroke-linecap="round" stroke-width="2"/>
+</svg>

@@ -60,15 +60,12 @@
 <!-- ### 👨‍💻 Sobre mí -->
 
 <!-- ✏️ Dos o tres líneas sobre ti -->
-Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España) y tengo un modelo de trabajo basado en el compromiso real con el cliente, asesorando y buscando soluciones para lo que mas trabajo te esta costando en estos momentos: ¡¡¡escalar tu empresa!!!
+Hola, soy Jacinto y vivo en Granada, Andalucía (España). Mi trabajo se basa en el compromiso con cada cliente: comprender sus necesidades, asesorarle y encontrar soluciones prácticas para impulsar el crecimiento de su empresa. También me interesa cómo la tecnología puede ayudar a mejorar su presencia y visibilidad.
 
-.... y si darle visibilidad con las tecnologias puede ser un gran alidao.
-
-
-- 🔭 Ahora mismo estoy trabajando en **...**
-- 🌱 Estoy aprendiendo **...**
-- 🤝 Me gustaría colaborar en **...**
-- ⚡ Dato curioso: **...**
+- 🔭 Actualmente, me enfoco en **identificar oportunidades de mejora y crecimiento para empresas mediante soluciones digitales**.
+- 🌱 Sigo ampliando mis conocimientos en **desarrollo web y herramientas tecnológicas aplicadas a las necesidades de negocio**.
+- 🤝 Me interesa colaborar con **personas y empresas que quieran fortalecer su presencia digital y avanzar en sus proyectos**.
+- 💡 Mi enfoque combina **escucha activa, compromiso y soluciones orientadas a objetivos concretos**.
 
 ---
 
@@ -123,18 +120,18 @@ Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España)
 
 
 <!-- ═══════════════ 7. OBJETIVOS ═══════════════ -->
-### 🚀 Objetivos actuales
-
 <!-- ✏️ -->
-- 💡 Aprender **...**
-- 🔨 Terminar **...**
-- 💼 Conseguir **...**
+<p align="center">
+  <img src="img/objetivos-poeticos.svg" alt="Objetivos actuales: aprender cada día algo nuevo y convertir el conocimiento en soluciones que abran caminos; terminar proyectos digitales que transformen buenas ideas en herramientas útiles y reales; colaborar con personas y empresas que quieran crecer con propósito." width="100%" />
+</p>
 
 ---
 
 
 <!-- ═══════════════ 8. CIERRE ═══════════════ -->
 <!-- ✏️ Una frase que te guste, o borra la línea -->
-> "Escribe aquí tu frase." – Autor
+<!-- > "Escribe aquí tu frase." – Autor -->
 
-<p align="center">⭐ ¡Gracias por pasarte por mi perfil! ⭐</p>
+<p align="center">
+  <img src="img/gracias-poetico.svg" alt="Gracias por visitar mi perfil" width="100%" />
+</p>
