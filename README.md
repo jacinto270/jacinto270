@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO?tab=followers"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Seguir" alt="Seguidores" /></a>
+  <a href="https://github.com/jacinto270"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Seguir" alt="Seguidores" /></a>
   <!-- OPCIONAL: contador de visitas -->
   <!-- <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas" alt="Visitas" /> -->
 </p>
@@ -80,7 +80,7 @@ Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España)
      Nombres disponibles: https://skillicons.dev  (ej.: python, react, spring,
      docker, nodejs, ts, php, laravel, postgres, mongodb, figma, linux...) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&perline=8" alt="Tecnologías" />
 </p>
 
 ---
@@ -95,12 +95,12 @@ Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España)
      Nota: la instancia pública de github-readme-stats a veces no carga por
      límites de uso; si te pasa a menudo, se puede desplegar una propia. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=react&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=react&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jacinto270&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacinto270&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=react&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=jacinto270&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -111,11 +111,11 @@ Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España)
 
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=react&hide_border=true" alt="Proyecto 1" />
+  <a href="https://github.com/jacinto270/jacinto_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacinto270&repo=porfoliojacinto&theme=react&hide_border=true" alt="Proyecto 1" />
   </a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=react&hide_border=true" alt="Proyecto 2" />
+  <a href="https://github.com/jacinto270/jacinto_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacinto270&repo=paginaparfum2&theme=react&hide_border=true" alt="Proyecto 2" />
   </a>
 </p>
 
