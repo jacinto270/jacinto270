@@ -22,7 +22,7 @@
 <!-- OPCIONAL: tu foto. Súbela a una carpeta Images/ del repo con ese nombre,
      o borra este bloque. -->
 <p align="center">
-  <img src="Images/avatar.png" alt="TU_NOMBRE" width="150" />
+  <img src="img/Retrato ejecutivo en Manhattan al atardecer.png" alt="Jacinto Juárez Rodríguez" width="150" />
 </p>
 
 <!-- Texto animado. Para cambiar frases, fuente o color, genera la URL en:
@@ -30,7 +30,7 @@
      Cada frase va separada por ";" y los espacios se escriben como "+". -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+TU_NOMBRE+%F0%9F%91%8B;Desarrollador+web;Siempre+aprendiendo" alt="Presentación animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&weight=400&size=30&pause=1000&color=7FE7D2&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Jacinto+Ju%C3%A1rez+Rodr%C3%ADguez+%F0%9F%91%8B;Desarrollador+web;soluciones+simples+a+grandes+problemas"  />
   </a>
 </p>
 
@@ -39,27 +39,31 @@
 <!-- Más insignias en https://shields.io/badges  (cambia el nombre, el color
      hexadecimal y el logo; los logos salen de https://simpleicons.org) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jacinto-juarez-9b9330222?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="img/linkedin.webp" alt="LinkedIn" width="48" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jacintojuarezrodriguez@gmail.com"><img src="img/gmail.webp" alt="Email: jacintojuarezrodriguez@gmail.com" width="48" /></a>
+  &nbsp;&nbsp;&nbsp;
   <!-- OPCIONAL: portfolio -->
-  <a href="https://TU_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/jacinto270"><img src="https://img.shields.io/badge/Portfolio-GitHub-F2F4F7?style=for-the-badge&logo=github&logoColor=181717&labelColor=E8EDF2" alt="Portfolio en GitHub" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO?tab=followers"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Seguir" alt="Seguidores" /></a>
   <!-- OPCIONAL: contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas" alt="Visitas" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas" alt="Visitas" /> -->
 </p>
 
 ---
 
 
 <!-- ═══════════════ 3. SOBRE MÍ ═══════════════ -->
-### 👨‍💻 Sobre mí
+<!-- ### 👨‍💻 Sobre mí -->
 
 <!-- ✏️ Dos o tres líneas sobre ti -->
-Hola, soy **TU_NOMBRE**. Estudio / trabajo en **...** en **(ciudad)**.
-Me interesa especialmente **...**.
+Hola, soy Jacinto, vivo en la maravillosa ciudad de Granada, Andalucia (España) y tengo un modelo de trabajo basado en el compromiso real con el cliente, asesorando y buscando soluciones para lo que mas trabajo te esta costando en estos momentos: ¡¡¡escalar tu empresa!!!
+
+.... y si darle visibilidad con las tecnologias puede ser un gran alidao.
+
 
 - 🔭 Ahora mismo estoy trabajando en **...**
 - 🌱 Estoy aprendiendo **...**
