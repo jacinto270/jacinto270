@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jacinto270"><img src="https://img.shields.io/github/followers/TU_USUARIO?style=social&label=Seguir" alt="Seguidores" /></a>
+  <a href="https://github.com/jacinto270"><img src="https://img.shields.io/github/followers/jacinto270?style=social&label=Seguir" alt="Seguidores" /></a>
   <!-- OPCIONAL: contador de visitas -->
   <!-- <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas" alt="Visitas" /> -->
 </p>
@@ -84,36 +84,72 @@ Hola, soy Jacinto y vivo en Granada, Andalucía (España). Mi trabajo se basa en
 
 
 <!-- ═══════════════ 5. ESTADÍSTICAS ═══════════════ -->
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
-<!-- Temas disponibles: dark, radical, tokyonight, react, dracula, gruvbox,
-     onedark, github_dark, transparent...
-     Cambia "theme=react" en las TRES imágenes para que combinen.
-     Nota: la instancia pública de github-readme-stats a veces no carga por
-     límites de uso; si te pasa a menudo, se puede desplegar una propia. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jacinto270&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacinto270&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com/?user=jacinto270&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jacinto270&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://img.shields.io/badge/Ubicación-Granada,_España-7FE7D2?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1b27" alt="Granada, España" />
+  <img src="https://img.shields.io/badge/Estado-Abierto_a_colaborar-7FE7D2?style=flat-square&logo=handshake&logoColor=white&labelColor=1a1b27" alt="Abierto a colaborar" />
+  <img src="https://img.shields.io/badge/Enfoque-Desarrollo_web_y_negocio-7FE7D2?style=flat-square&logo=rocket&logoColor=white&labelColor=1a1b27" alt="Desarrollo web y negocio" />
 </p>
 
 ---
 
 
-<!-- ═══════════════ 6. PROYECTOS DESTACADOS (OPCIONAL) ═══════════════ -->
+<!-- ═══════════════ 6. PROYECTOS DESTACADOS ═══════════════ -->
 ### 📌 Proyectos destacados
 
-<!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 Portfolio personal</h4>
+      <p>Mi portfolio profesional: presentación, servicios y proyectos realizados.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br /><br />
+      <a href="https://jjrodriguez.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo" /></a>
+      <a href="https://github.com/jacinto270/porfoliojacinto"><img src="https://img.shields.io/badge/Código-7FE7D2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Código" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐾 A Pata Coja</h4>
+      <p>Proyecto final de formación, desarrollado y desplegado en producción.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br /><br />
+      <a href="https://a-pata-coja.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo" /></a>
+      <a href="https://github.com/jacinto270/proyectofinal"><img src="https://img.shields.io/badge/Código-7FE7D2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Código" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Pasapalabra</h4>
+      <p>Juego interactivo de preguntas por letras, inspirado en el rosco.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br /><br />
+      <a href="https://pasapalabranoa.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo" /></a>
+      <a href="https://github.com/jacinto270/pasapalabra"><img src="https://img.shields.io/badge/Código-7FE7D2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Código" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌸 Tienda de perfumes</h4>
+      <p>Página web de perfumes creada con HTML, CSS y JavaScript.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br /><br />
+      <a href="https://github.com/jacinto270/paginaparfum2"><img src="https://img.shields.io/badge/Código-7FE7D2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Código" /></a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/jacinto270/jacinto_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacinto270&repo=porfoliojacinto&theme=react&hide_border=true" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/jacinto270/jacinto_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacinto270&repo=paginaparfum2&theme=react&hide_border=true" alt="Proyecto 2" />
-  </a>
+  <a href="https://github.com/jacinto270?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_mis_repositorios-1a1b27?style=for-the-badge&logo=github&logoColor=7FE7D2" alt="Ver todos los repositorios" /></a>
 </p>
 
 ---
