@@ -77,7 +77,7 @@ Hola, soy Jacinto y vivo en Granada, Andalucía (España). Mi trabajo se basa en
      Nombres disponibles: https://skillicons.dev  (ej.: python, react, spring,
      docker, nodejs, ts, php, laravel, postgres, mongodb, figma, linux...) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,git,github,vscode&perline=8" alt="Tecnologías" />
 </p>
 
 ---
@@ -103,6 +103,20 @@ Hola, soy Jacinto y vivo en Granada, Andalucía (España). Mi trabajo se basa en
 ### 📌 Proyectos destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🏎️ Taller Genil · Gestión de taller mecánico</h4>
+      <p>Aplicación web completa para un taller: reparaciones con piezas y mano de obra por horas, facturación e impresión, clientes y estadísticas de ventas con gráficos. Los clientes se registran y consultan sus propias facturas.</p>
+      <p>🔐 <b>Seguridad para publicar:</b> login en dos pasos con código por email, roles admin/cliente, contraseñas con Argon2id, protección CSRF, CSP y freno a la fuerza bruta.<br />
+         🎨 Patrón MVC sin frameworks, tema claro/oscuro adaptado al móvil, gráficos SVG propios y un minijuego de carreras para la sala de espera.</p>
+      <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <br /><br />
+      <a href="https://github.com/jacinto270/tallerapp"><img src="https://img.shields.io/badge/Código-7FE7D2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="Código" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💼 Portfolio personal</h4>
